@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Factorial
 {
-public static void main(String args[])
+public static void name(String args[])
 {
  int i,fact=1;
  int number=5;
